@@ -1,3 +1,4 @@
 # college_ka_kam
 work regarding college
-Author - Burhanuddin Kachwala
+<br>
+<b>Author - Burhanuddin Kachwala</b>
